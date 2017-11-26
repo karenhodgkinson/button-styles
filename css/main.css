@@ -11,3 +11,29 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+a hover {
+  background-color: #666;
+}
+
+a {
+  border: 3px solid #000;
+  padding: .4em;
+  border-radius: 8px;
+}
+
+.primary {
+  background-color: #333;
+}
+
+.subtle {
+  background-color: #ccc;
+}
+
+.ghost {
+  background-color: #fff;
+}
+
+.warning {
+  background-color: #f33;
+}
